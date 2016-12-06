@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style type="text/css">
+  #dingbu{
+         height:100px;
+		 width:10000px;
+		 background:red;
+		 float:left;
+		 }
+  #dingbu1{
+         height:30px;
+		 width:10000px;
+		 background:green;
+		 }
+	#dingbu2{
+	     height:40px;
+		 width:600px;
+		 background:black;
+	
+
+  </style>
+ </head>
+ <body>
+  <div id="dingbu"><img src="images/logo.gif"/><p>深圳</p>
+<div id="dingbu1"></div>
+  </div>
+  <div id="dingbu2"></div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>网站</title>
+  <style>
+  #郑州{
+       right:0;
+  
+          
+  </style>
+ </head>
+ <body>
+  <div class="shead">
+          <div class="shot">
+		     <div class="shite">
+		        <div class="slogo"><img src="images/logo.gif"/>
+		        <div class="some">
+				<p class="郑州"><b>郑州</b></p>
+  </div>
+  </div>
+  </div>
+ </body>
+</html>
